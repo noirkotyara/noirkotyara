@@ -2,8 +2,8 @@
 
 <!--
 **noirkotyara/noirkotyara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on socialNetwork
 - 🌱 I’m currently learning React
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: noirkotyara in telegram
 - 😄 Pronouns: informaticienne
 - ⚡ Fun fact: I`m a cat
--->
+
