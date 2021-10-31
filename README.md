@@ -5,11 +5,11 @@
 -->
 
 
-- 🔭 I’m currently working on socialNetwork
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on party
-- 🤔 I’m looking for help with - no help
-- 💬 Ask me about French
+- 🔭 I’m currently working on cats place)
+- 🌱 I’m currently learning React, NodeJs
+- 👯 I’m looking to collaborate on a party
+- 🤔 I’m looking for help with interesting ideas creating
+- 💬 Ask me about French&Cats
 - 📫 How to reach me: noirkotyara in telegram
 - 😄 Pronouns: informaticienne
 - ⚡ Fun fact: I`m a cat
