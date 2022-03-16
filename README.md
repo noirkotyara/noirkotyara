@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on cats place)
-- 🌱 I’m currently learning React, NodeJs
+- 🌱 I’m currently learning Nest, Next
 - 👯 I’m looking to collaborate on a party
 - 🤔 I’m looking for help with interesting ideas creating
 - 💬 Ask me about French&Cats
