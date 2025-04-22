@@ -5,12 +5,11 @@
 -->
 
 
-- 🔭 I’m currently working on cats place)
-- 🌱 I’m currently learning Nest, Next
+- 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on a party
 - 🤔 I’m looking for help with interesting ideas creating
 - 💬 Ask me about French&Cats
-- 📫 How to reach me: noirkotyara in telegram
+- 📫 How to reach me: send me a pull request
 - 😄 Pronouns: informaticienne
 - ⚡ Fun fact: I`m a cat
 
