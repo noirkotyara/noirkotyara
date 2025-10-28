@@ -17,9 +17,9 @@
 - Clean, observable APIs • data modeling & query performance • pragmatic testing  
 - Scalability: caching, rate-limits, background jobs, idempotent integrations
 
-#### 📚 Growth track (at a glance)
+#### 📚 Growth track
 | ✅ Recently sharpened | 🔭 Currently deepening |
 | --- | --- |
-| Generative AI in Node.js with LangChain (structured outputs, tool use, evals), OpenSearch basics | Practical Solution Architecture (trade-off frameworks, runbooks, SLOs), **NestJS microservices** (message patterns, RMQ/NATS transports, orchestration), Go (goroutines/channels, interfaces), Elasticsearch (indexing, analyzers, query DSL) |
+| Generative AI in Node.js with LangChain, OpenSearch | Practical Solution Architecture (trade-off frameworks, runbooks, SLOs), NestJS microservices, Go.
 
-> 🎯 Targeting **backend-focused** roles (Node/Go) — **also open to full-stack** positions and **proficient in React**.
+> 🎯 Targeting **backend-focused** or **full-stack** roles.
