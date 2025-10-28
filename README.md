@@ -1,15 +1,25 @@
-### Hi there 👋
+
+### 👋 Hi there, I’m **Diana** - Backend-leaning **Full-Stack Engineer** (Node.js, React, AWS) 5+ yrs
 
 <!--
 **noirkotyara/noirkotyara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Full-stack Engineer (Node.js, React, AWS) 5+ yrs
+- 🚢 I ship end-to-end: requirements → design → testing → release → monitoring  
+- ✍️ I make trade-offs explicit, write concise docs, and plan releases clearly  
+- 🧪 I own quality & production health and help teammates via reviews/pairing
 
-I build reliable, user-focused features end-to-end - from requirements and design to testing, release, and monitoring. I craft clear release plans, write concise docs, partner on planning & estimation, and win decisions by presenting trade-offs and owning outcomes. I’m a team player who shares knowledge, improves what exists while creating new value, and isn’t afraid to own decisions. I take responsibility for quality and production health and I’m eager to help teammates with reviews, pairing, and knowledge sharing.
+**🧰 Core stack:** TypeScript • Node.js (Express/Nest) • React • SQL (MySQL/PostgreSQL) • AWS  
+**🏷️ Domains:** HealthTech • MediaTech • FinTech  
+**🧭 Work style:** responsible, detail-oriented, fast after deliberate planning; team player, open & sincere
 
-Core stack: React, TypeScript, Node.js, SQL (MySQL/PostgreSQL), AWS.
-Learning: Go, OpenSearch, LangChain, Generative AI for Node, Practical Solution Architecture.
-Domains: HealthTech, MediaTech, FinTech.
+#### 🎯 Focus
+- Clean, observable APIs • data modeling & query performance • pragmatic testing  
+- Scalability: caching, rate-limits, background jobs, idempotent integrations
 
-Work style: responsible, detail-oriented, fast after deliberate planning; team player, open and sincere.
+#### 📚 Growth track (at a glance)
+| ✅ Recently sharpened | 🔭 Currently deepening |
+| --- | --- |
+| Generative AI in Node.js with LangChain (structured outputs, tool use, evals), OpenSearch basics | Practical Solution Architecture (trade-off frameworks, runbooks, SLOs), **NestJS microservices** (message patterns, RMQ/NATS transports, orchestration), Go (goroutines/channels, interfaces), Elasticsearch (indexing, analyzers, query DSL) |
+
+> 🎯 Targeting **backend-focused** roles (Node/Go) — **also open to full-stack** positions and **proficient in React**.
